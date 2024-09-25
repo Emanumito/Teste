@@ -32,4 +32,8 @@ jobs:
         with:
           context: .
           push: false
+<<<<<<< Updated upstream
           tags: user/app:latest
+=======
+          tags: user/app:latest
+>>>>>>> Stashed changes
